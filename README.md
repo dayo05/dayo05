@@ -5,3 +5,5 @@
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo05&langs_count=8&layout=compact&theme=radical")
 
 ![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dayo05)
+
+![](https://twitch.tv/yd0821)
