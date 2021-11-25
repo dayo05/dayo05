@@ -6,4 +6,4 @@
 
 ![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dayo05)
 
-![](https://twitch.tv/yd0821)
+가내수공업팀 소속, 조만간 첫 컨텐츠 [publish](https://twitch.tv/yd0821) 예정
