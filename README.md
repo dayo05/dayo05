@@ -1,4 +1,4 @@
-### 와 샌즈 아시는구나!
+## 와 샌즈 아시는구나!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical)
 
@@ -6,6 +6,6 @@
 
 ![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dayo05)
 
-가내수공업팀 소속, 조만간 첫 컨텐츠 [publish](https://twitch.tv/yd0821) 예정
 
-아직 코델리아는 출시하려면 멀은듯...
+## 참여 컨텐츠 리스트
+ - 가내수공업팀: ![악령술래잡기](https://www.youtube.com/watch?v=5_xZBBs0WTY)
