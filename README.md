@@ -8,7 +8,16 @@
 
 
 ## YDTV 참여 컨텐츠 리스트
- - 가내수공업팀: [악령술래잡기](https://www.youtube.com/watch?v=5_xZBBs0WTY)
+### 가내수공업팀
+ - [악령술래잡기](https://www.youtube.com/watch?v=5_xZBBs0WTY)
+ - 마피아 서열정리
+
 
 ## e-mail
  - dayo05@daum.net
+
+## Twitter
+ - @dayo_005
+
+## Instagram
+ - @ddayo05
