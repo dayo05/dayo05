@@ -1,4 +1,4 @@
-## 와 샌즈 아시는구나!
+## Stop working until Apr 22 14:00 KST
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical)
 
