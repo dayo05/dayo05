@@ -17,6 +17,8 @@
 
 ## e-mail
  - dayo05@daum.net
+ - dayo@iroom.me
+ - gbs.s210021@ggh.goe.go.kr(School mail, I see this very rarely)
 
 ## Twitter
  - @dayo_005
