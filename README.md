@@ -10,7 +10,9 @@
 ## YDTV 참여 컨텐츠 리스트
 ### 가내수공업팀
  - [악령술래잡기](https://www.youtube.com/watch?v=5_xZBBs0WTY)
- - 마피아 서열정리
+ - [마피아 서열정리](https://www.youtube.com/watch?v=9ZsYtA4ynVc)
+### 쉼표
+ - 프로젝트 시그널
 
 
 ## e-mail
