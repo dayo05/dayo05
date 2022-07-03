@@ -11,6 +11,8 @@
  - [마피아 서열정리](https://www.youtube.com/watch?v=9ZsYtA4ynVc)
 ### 쉼표
  - [프로젝트 시그널](https://www.youtube.com/watch?v=gwMHcPMydb0)
+ 
+### 더이상 1.12.2 Minecraft를 활용한 신규 프로젝트는 진행하지 않을 계획입니다.
 
 
 ## e-mail
