@@ -12,7 +12,8 @@
 ### 쉼표
  - [프로젝트 시그널](https://www.youtube.com/watch?v=gwMHcPMydb0)
  
-### All of mod/plugins which targets Minecraft 1.12.2 is marked as obsolete. **PLEASE UPDATE your forge, spigot, etc. as greater then MC 1.16.5.** My project which targets 1.12.2 and NOT SPECIFIED as one YT content will migrated as higher version and they will not able to receive any support anymore.
+### All of my mod/plugins which targets Minecraft 1.12.2 is marked as obsolete. **PLEASE UPDATE your forge, spigot, etc. as greater then MC 1.16.5.** 
+ - My project which targets 1.12.2 and NOT SPECIFIED as one YT content will migrated as higher version and they will not able to receive any support anymore.
 
 
 ## e-mail
