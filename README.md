@@ -4,9 +4,14 @@
 * Born: 2005.08.04
 * Language: Korean/English
 * Citizenship: Korean
-* School: GBS 17th
+* School: GBS(Gyeonggibuk Science Highschool) 17th
 * he/him
 
+## Interested on
+* PL(Programing languages and Compilers, also includes Runtimes for JIT integrated things)
+* Game Development(**Godot** looks best for me :D)
+  + Also develops MODS for game
+* PS(Problem solving) on CF or BOJ(Beakjoon online judge; the most popular OJ in the South Korea)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical)
 
