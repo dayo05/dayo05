@@ -51,7 +51,7 @@
  - gbs.s210021@ggh.goe.go.kr(School mail, I see this very rarely)
 
 ## Twitter
- - @dayo_005
+ - @dayo_005 (Obsolete)
 
 ## Instagram
- - @ddayo05
+ - @ddddddayo
