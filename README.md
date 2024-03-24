@@ -1,4 +1,4 @@
-## I 💜 Open source!!
+# My profile(v.2024)
 
 ## Personal Information
 * Born: 2005.08.04
@@ -7,51 +7,71 @@
 * School: Gyeonggibuk Science Highschool 17th(Enroll on 2021), Ajou University(CS major) 2024
 * he/him
 
-## Interested on
+## Interested on...
 * PL(Programing languages and Compilers, also includes Runtimes for JIT integrated things)
 * Game Development(**Godot** looks best for me :D)
-  + Also develops MODS for game
-* PS(Problem solving) on CF or BOJ(Beakjoon online judge; the most popular OJ in the South Korea)
+  + Also develops MODs for game
+* PS(Problem solving) on Codeforces/Beakjoon Online Judge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical)
-
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo05&langs_count=10&layout=compact&theme=radical")
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayo05)](https://solved.ac/dayo05)
 
 ## Using language
 * **Korean** for speaking.
 * **English** for communication with non-native-korean-speaker.
-* **C#** for general using. (GUI application, Game development, [Deep learning](https://github.com/dotnet/TorchSharp), etc.)
+* **C#** for general using. (GUI application, Game development, DL, etc.)
 * **Kotlin** for java-specific things including Minecraft mod/plugin development.
 * **Python** for using limited latest technologe.
 * **C/C++/Assembly/Rust** for project which requires high-speed or requires to access very-low level.
 * **Rust** is also used on alternative of Kotlin/C#
 
-## 수상이력
-* 삼성전자 주니어 소프트웨어 창작대회 2018 장려상(5등)
-* 전국 대학부설 영재교육원 사사연구발표대회 (2020년도 개최 대회) 최우수상(1등)
-* KOI 2017~2019 1차 장려상
-* KOI 2020, 2021 1차 동상, 2차 장려상
-* KOI 2022 1차 은상(30등 초반), 2차 동상(50등 초반)
-* NYPC 2019~2022 특별상
-* NYPC 2022 본선 진출
-* 전국 고등학교 동아리 소프트웨어 창작대회 2022 은상
+## Contests...
+* 5th prize(Encouragement Award) on Samsung junior software development contest 2018
+* 1st prize on University managed gifted student study presentation contest(전국 대학부설 영재교육원 사사연구성과발표대회)
+* Encouragement Award on KOI(Korea Olympiad of Informatics) 2017~2019 1st competition
+* Bronze medal on KOI 2020, 2021 1st competition
+* Bronze medal on KOI 2020 2nd competition
+* Encouragement Award on KOI 2021 2nd competition
+* Silver medal on KOI 2022, 2023 1st competition
+* Bronze medal on KOI 2022, 2023 2nd competition
+* Special prize on NYPC(Nexon Youth Programming Challenge) 2019~2023
+* Advanded to Final on NYPC 2022, 2023
+* Silver medal on National Software competition for highschool club 2022
 
-## Projects
-* @iroom-gbs
+## PS(Problem Solving)
+* Codeforces Expert(Blue) @dayodayo
+* Platinum 2(Solved.ac rating) on Beakjoon online judge -the most famous OJ on South Korea- @dayo05
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayo05)](https://solved.ac/dayo05)
+
+## I'm now in...
 * @team-crescendo 크시(discord bot)
-* 김진우 유튜브 컨텐츠 개발
-* 양띵 유튜브 컨텐츠 개발
+* Software maestro 15th
 
-## e-mail
+## I was contributed to...
+* dotnet/TorchSharp: The C#-ported PyTorch, DataLoader and ToString improvement
+* rust/rust-lang: Rust compiler, diagnostic migration
+* Almighty-Alpaca/JetBrains-Discord-Integration: Enum value fix related to Discord Nitro Basic
+
+and a lots of issues, minor changes and docs :)
+
+## I am working on...
+* Xsi, The discord chatbot which has more then 100,000 registered users on team-crescendo
+* Mod of Korea Minecraft Development Community(Discord)
+
+## I was...
+* Minecraft mod developer for youtuber in South Korea(양띵, 김진우)
+
+## e-mails
  - dayo05@daum.net (Primary)
+ - dayo@ajou.ac.kr (School mail)
  - dayo@crsd.team (Team crescendo mail)
  - self@ddayo.me (Working yet)
- - gbs.s210021@ggh.goe.go.kr(School mail, I see this very rarely)
-
-## Twitter
- - @dayo_005 (Obsolete)
+ - gbs.s210021@ggh.goe.go.kr (Obsoleted School mail)
 
 ## Instagram
  - @ddddddayo
+
+## X(which was the cute blue bird, Twitter)
+ - @dayo_005 (Not used anymore)
+
+There are some \[censored\] private social network services accounts lmao but almost of them might abandoned.
