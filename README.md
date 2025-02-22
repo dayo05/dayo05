@@ -40,7 +40,7 @@
 
 ## PS(Problem Solving)
 * Codeforces Expert(Blue) @dayodayo
-* Platinum 2(Solved.ac rating) on Beakjoon online judge -the most famous OJ on South Korea- @dayo05
+* Diamond 4(Solved.ac rating) on Beakjoon online judge -the most famous OJ on South Korea- @dayo05
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayo05)](https://solved.ac/dayo05)
 
 ## I'm now in...
