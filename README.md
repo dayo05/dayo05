@@ -4,7 +4,7 @@
 * Born: 2005.08.04
 * Language: Korean/English
 * Citizenship: Korean
-* School: Gyeonggibuk Science Highschool 17th(Enroll on 2021), Ajou University(CS major) 2024
+* School: Gyeonggibuk Science Highschool 17th(Enroll on 2021), University of Seoul(EE major) 2025
 * he/him
 
 ## Interested on...
