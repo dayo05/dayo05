@@ -63,7 +63,7 @@ and a lots of issues, minor changes and docs :)
 
 ## e-mails
  - dayo05@daum.net (Primary)
- - dayo@ajou.ac.kr (School mail)
+ - dayo@uos.ac.kr (School mail)
  - dayo@crsd.team (Team crescendo mail)
  - self@ddayo.me (Working yet)
  - gbs.s210021@ggh.goe.go.kr (Obsoleted School mail)
