@@ -2,15 +2,14 @@
 
 ## Personal Information
 * Born: 2005.08.04
-* Language: Korean/English
+* Speaks: Korean/English
 * Citizenship: Korean
-* School: Gyeonggibuk Science Highschool 17th(Enroll on 2021), University of Seoul(EE major) 2025
-* he/him
+* School: Gyeonggibuk Science Highschool(CS major, 2021~2023) and University of Seoul(EE major, 2025~)
 
 ## Interested on...
-* PL(Programing languages and Compilers, also includes Runtimes for JIT integrated things)
+* PL(Programing languages and Compilers, also includes Runtimes for JIT integrated stuff)
 * Game Development(**Godot** looks best for me :D)
-  + Also develops MODs for game
+  + Also develops MODs for various games
 * PS(Problem solving) on Codeforces/Beakjoon Online Judge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayo05&show_icons=true&theme=radical)
@@ -45,33 +44,24 @@
 
 ## I'm now in...
 * @team-crescendo 크시(discord bot)
-* Software maestro 15th
-
-## I was contributed to...
-* dotnet/TorchSharp: The C#-ported PyTorch, DataLoader and ToString improvement
-* rust/rust-lang: Rust compiler, diagnostic migration
-* Almighty-Alpaca/JetBrains-Discord-Integration: Enum value fix related to Discord Nitro Basic
-
-and a lots of issues, minor changes and docs :)
 
 ## I am working on...
 * Xsi, The discord chatbot which has more then 100,000 registered users on team-crescendo
 * Mod of Korea Minecraft Development Community(Discord)
 
 ## I was...
+* Software maestro 15th
+> I made personal AI-agent, you can see source code [here](https://github.com/projectlcs/lcs)
 * Minecraft mod developer for youtuber in South Korea(양띵, 김진우)
 
 ## e-mails
- - dayo05@daum.net (Primary)
+ - self@ddayo.me
+ - dayo05@daum.net
  - dayo@uos.ac.kr (School mail)
  - dayo@crsd.team (Team crescendo mail)
- - self@ddayo.me (Working yet)
  - gbs.s210021@ggh.goe.go.kr (Obsoleted School mail)
 
 ## Instagram
  - @ddddddayo
-
-## X(which was the cute blue bird, Twitter)
- - @dayo_005 (Not used anymore)
 
 There are some \[censored\] private social network services accounts lmao but almost of them might abandoned.
