@@ -1,10 +1,10 @@
-# My profile(v.2025)
+# My profile(2025.07.03)
 
 ## Personal Information
 * Born: 2005.08.04
 * Speaks: Korean/English
 * Citizenship: Korean
-* School: Gyeonggibuk Science Highschool(CS major, 2021~2023) and University of Seoul(EE major, 2025~)
+* School:  University of Seoul(EE major, 2025~), Gyeonggibuk Science Highschool(CS major, 2021~2023)
 
 ## Interested on...
 * PL(Programing languages and Compilers, also includes Runtimes for JIT integrated stuff)
@@ -18,7 +18,7 @@
 ## Using language
 * **Korean** for speaking.
 * **English** for communication with non-native-korean-speaker.
-* **C#** for general using. (GUI application, Game development, DL, etc.)
+* **C#** for general stuffs. (GUI application, Game development, DL, etc.)
 * **Kotlin** for java-specific things including Minecraft mod/plugin development.
 * **Python** for using limited latest technologe.
 * **C/C++/Assembly/Rust** for project which requires high-speed or requires to access very-low level.
@@ -44,13 +44,14 @@
 
 ## I'm now in...
 * @team-crescendo 크시(discord bot)
+* Best of Best 14th vulnerability analysis(취약점분석) track
 
 ## I am working on...
 * Xsi, The discord chatbot which has more then 100,000 registered users on team-crescendo
 * Mod of Korea Minecraft Development Community(Discord)
 
 ## I was...
-* Software maestro 15th
+* Software maestro 15th(youngest successful applicant)
 > I made personal AI-agent, you can see source code [here](https://github.com/projectlcs/lcs)
 * Minecraft mod developer for youtuber in South Korea(양띵, 김진우)
 
@@ -59,9 +60,8 @@
  - dayo05@daum.net
  - dayo@uos.ac.kr (School mail)
  - dayo@crsd.team (Team crescendo mail)
- - gbs.s210021@ggh.goe.go.kr (Obsoleted School mail)
 
 ## Instagram
  - @ddddddayo
 
-There are some \[censored\] private social network services accounts lmao but almost of them might abandoned.
+There are some \[censored\] private social network services accounts lmao but most of them are abandoned.
