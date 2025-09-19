@@ -5,6 +5,7 @@
 * Speaks: Korean/English
 * Citizenship: Korean
 * School:  University of Seoul(EE major, 2025~), Gyeonggibuk Science Highschool(CS major, 2021~2023)
+* [LinkedIn](https://in.ddayo.me)
 
 ## Interested on...
 * PL(Programing languages and Compilers, also includes Runtimes for JIT integrated stuff)
