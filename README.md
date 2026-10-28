@@ -37,11 +37,13 @@ I build language runtimes, developer tools, and game infrastructure—mostly wit
 - **Best of the Best 14th — Vulnerability Analysis:** studied formal verification and contributed a parser fix to [Tamarin Prover](https://github.com/tamarin-prover/tamarin-prover); currently writing a paper on OAuth security.
 - Developer of **Xsi**, a Team Crescendo Discord bot with more than 100,000 registered users.
 - Built Minecraft mods for Korean creators including Yangdding and Kim Jinu.
+- Placed **2nd** at **[CubeCTF 2026](https://ctftime.org/event/3352/)** as a member of **SHA**.
 - Placed **40th** at the **2025 ICPC Asia Seoul Regional Contest** as team `GeongongiIsMae`, solving 7 problems.
 
 <details>
 <summary><strong>Full competition record</strong></summary>
 
+- 2nd Place, [CubeCTF 2026](https://ctftime.org/event/3352/) — SHA
 - Presidential Award (Silver Medal), University of Seoul Programming Challenge
 - 40th Place, ICPC Asia Seoul Regional Contest, 2025 — `GeongongiIsMae`, 7 solved
 - 5th Prize (Encouragement Award), Samsung Junior Software Development Contest, 2018
